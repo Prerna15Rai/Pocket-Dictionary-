@@ -1,2 +1,3 @@
 # Pocket-Dictionary-
-Beginner level project using python language. 
+To understand the basic topics with effective manner is very essential, Pocket Dictionary is very 
+Beginner level project which help to build the concepts realted to programming ....
